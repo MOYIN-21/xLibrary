@@ -1,4 +1,4 @@
-package org.Eagle;
+package org.Eagle.controller;
 
 public class libraryController {
 }
